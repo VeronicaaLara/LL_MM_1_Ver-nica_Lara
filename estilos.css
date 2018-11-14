@@ -1,0 +1,104 @@
+
+			body {
+				border-color:white;
+				border-style:solid;
+				border-width: 2px;
+				padding: 5px; 
+			}
+
+
+			h1   {
+				text-align: center; 
+				color: #66CDAA;
+				font-family: 'Berkshire Swash';
+				font-size: 72px;
+				margin: 25px 25px 70px 75px;
+			}
+			.clear {
+				clear: both;
+			}
+			
+
+			h2   {
+				text-align: left;
+				color: #66CDAA;
+				font-family: 'Berkshire Swash';
+				font-style: italic;
+				font-size: 28px;
+				margin: 25px 25px 70px 75px;
+			}
+			
+			p 	{ 
+				text-align: left; 
+				color: white;
+				 font-family: 'Cherry Swash';
+				font-size: 24px;
+				margin: 25px 20px 70px 75px;
+			 } 
+			 
+			 a  {
+			 	color: #66CDAA;
+
+			 	margin: 25px 20px 70px 75px;
+			 }
+			 
+			 ul {
+				color: #66CDAA;
+				font-family: 'Berkshire Swash';
+				font-size: 18px;
+				margin: 10px;
+				padding: 40px;
+
+			}
+			
+			li {
+				padding: 0 10px;
+				float: right;
+				display: inline;
+				text-align: center;
+			}
+
+
+			h3 	{
+				text-align: left;
+				color:#66CDAA;
+				font-family: 'Berkshire Swash';
+				font-size: 28px;
+				margin: 25px 25px 70px 75px;
+			}
+			h4 	{
+				text-align: left;
+				color:#66CDAA; 
+				font-family: 'Berkshire Swash';
+				font-style: italic;
+				font-size: 28px;
+				margin: 25px 25px 70px 75px;
+			}
+			h5 	{
+				text-align: left;
+				color:#66CDAA; 
+				font-family: 'Berkshire Swash';
+				font-style: italic;
+				font-size: 28px;
+				margin: 25px 25px 70px 75px;
+			}
+			
+			.toLeft {
+				float: left;
+				width: 150px;
+				height: 150px;
+			}
+
+			.toRight {
+				float: right;
+			}
+
+			video {
+				margin-left: 150px;
+				width:820px;
+				height:740px;
+				
+			}
+			
+				
+			
